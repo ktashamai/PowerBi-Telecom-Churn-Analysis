@@ -1,33 +1,82 @@
-# PowerBi-Telecom-Churn-Analysis
-Power BI dashboard analyzing customer churn
+# Telecom Customer Churn Analysis (Power BI)
 
 ## Problem Statement
-Analyze why customers are churning and identify key drivers.
+The goal of this project is to analyze customer churn for a telecom company and identify the strongest factors influencing churn (e.g., contract type, data usage, customer service calls).
+
+---
 
 ## Dataset
-Telecom customer dataset (public sample data).
+This project uses telecom customer data including demographic, usage, contract, and churn information.  
+The file `Databel - Data.csv` contains all data used for the analysis.
 
-## Tools Used
-- Power BI
-- DAX
-- Excel
+---
 
-## KPIs
-- Total Customers
-- Churn Rate %
-- Avg Customer Service Calls
-- Avg Extra Charges
+## Tools & Technologies
+- **Power BI Desktop** – Dashboard design & analytics
+- **DAX** – KPIs and measures
+- **Data Modeling** – Segmentation and grouping
+- **CSV dataset** for source data
+
+---
+
+## Key Performance Indicators (KPIs)
+These were created as measures in Power BI:
+- **Total Customers**
+- **Churn Rate %**
+- **Avg Customer Service Calls**
+- **Avg Extra International Charges**
+- **Avg Extra Data Charges**
+
+---
 
 ## Dashboard Pages
-- Overview
-- Contract Analysis
-- Usage Analysis
+Your Power BI report includes the following:
+- **Overview:** Overall churn metrics and KPI cards  
+- **Contract Analysis:** Churn by contract category  
+- **Usage Analysis:** Churn vs data usage groups  
+
+---
 
 ## Key Insights
-- Monthly contract customers have higher churn
-- High data users churn more on unlimited plans
-- More service calls correlate with higher churn
+- Monthly contract customers have **higher churn** than yearly contracts.  
+- Customers with **higher data usage** are more likely to churn.  
+- More **customer service calls** correlate with increased churn.
+
+---
 
 ## Business Recommendations
-- Offer incentives for yearly contracts
-- Improve customer support quality
+- Offer incentives or discounts for customers on yearly contracts.  
+- Target high‑usage monthly customers with retention offers.  
+- Improve quality & responsiveness of customer service to reduce churn.
+
+---
+
+## Screenshots
+Here are a few visuals from the dashboard:
+https://github.com/ktashamai/PowerBi-Telecom-Churn-Analysis/blob/main/Overview%20of%20Churn%20Anlysis.png
+https://github.com/ktashamai/PowerBi-Telecom-Churn-Analysis/blob/main/Churn_Demographics.png
+https://github.com/ktashamai/PowerBi-Telecom-Churn-Analysis/blob/main/Age_Groups.png
+
+---
+
+## Pbix File
+Here is Link for Pbix file
+https://github.com/ktashamai/PowerBi-Telecom-Churn-Analysis/blob/main/Churn_Analysis_Overview.pbix
+
+## Souce Data
+Here is the link for Source Data
+https://github.com/ktashamai/PowerBi-Telecom-Churn-Analysis/blob/main/Databel%20-%20Data.csv
+---
+
+## 📂 Files in This Repo
+- `Churn_Analysis_Overview.pbix` — Power BI report  
+- `Databel - Data.csv` — source data  
+- `images/` — screenshots of dashboard  
+- `README.md` — project documentation
+
+---
+
+## About Me
+I’m a data analyst passionate about turning data into insights using Power BI.
+
+---
