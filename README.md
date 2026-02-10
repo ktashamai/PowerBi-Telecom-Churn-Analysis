@@ -59,13 +59,17 @@ https://github.com/ktashamai/PowerBi-Telecom-Churn-Analysis/blob/main/Age_Groups
 
 ---
 
+## Souce Data
+Here is the link for Source Data
+https://github.com/ktashamai/PowerBi-Telecom-Churn-Analysis/blob/main/Databel%20-%20Data.csv
+
+___
+
 ## Pbix File
 Here is Link for Pbix file
 https://github.com/ktashamai/PowerBi-Telecom-Churn-Analysis/blob/main/Churn_Analysis_Overview.pbix
 
-## Souce Data
-Here is the link for Source Data
-https://github.com/ktashamai/PowerBi-Telecom-Churn-Analysis/blob/main/Databel%20-%20Data.csv
+
 ---
 
 ## 📂 Files in This Repo
@@ -77,6 +81,14 @@ https://github.com/ktashamai/PowerBi-Telecom-Churn-Analysis/blob/main/Databel%20
 ---
 
 ## About Me
-I’m a data analyst passionate about turning data into insights using Power BI.
+I’m a Data Analyst passionate about turning data into insights using Power BI.
+
+I am a Google Data Analytics Certified professional with hands-on experience in **Power BI, SQL, Excel, and DAX**, and I enjoy transforming raw data into meaningful insights that support business decision-making. My background in QA helps me bring a strong attention to detail, data accuracy, and analytical thinking to every project.
+
+In my projects, I focus on:
+- Identifying key business problems
+- Building clear and interactive dashboards
+- Defining relevant KPIs
+- Communicating insights and actionable recommendations
 
 ---
